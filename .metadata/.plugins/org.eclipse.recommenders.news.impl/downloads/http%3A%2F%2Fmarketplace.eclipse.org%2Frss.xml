@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>https://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>IBM Liberty Developer Tools</title>
+    <link>https://marketplace.eclipse.org/content/ibm-liberty-developer-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/wdt-was-emp-darkblue-500.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/canderson/listings&quot; title=&quot;Carl Anderson&quot;&gt;Carl Anderson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2014-07-02 08:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2021-07-19 09:55&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;An Eclipse IDE for building and deploying Java EE, OSGi and Web 2.0 applications to Open Liberty and WebSphere Application Server Liberty. For more information about installing and downloading the tools, including archived versions of the tools for older versions of Eclipse, see &lt;a href=&quot;https://developer.ibm.com/wasdev/docs/websphere-developer-tools-releases/&quot; rel=&quot;nofollow&quot;&gt;WebSphere Application Server Developer Tools Releases&lt;/a&gt;. Releases from 2021-03 onwards have some known issues and workarounds which can be found &lt;a href=&quot;https://github.com/OpenLiberty/open-liberty-tools/wiki/Liberty-Tools-known-issues&quot; rel=&quot;nofollow&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 02 Jul 2014 12:24:46 +0000</pubDate>
+ <dc:creator>canderson</dc:creator>
+ <guid isPermaLink="false">1778478 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/ibm-liberty-developer-tools#comments</comments>
+  </item>
+  <item>
+    <title>IBM WebSphere Application Server V9.x Developer Tools</title>
+    <link>https://marketplace.eclipse.org/content/ibm-websphere-application-server-v9x-developer-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/wdt-was-lp-500_11.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/dfloreshr7/listings&quot; title=&quot;Dario Flores&quot;&gt;Dario Flores&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-02-09 17:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2021-07-19 09:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;An Eclipse 4.x IDE for building and deploying Java EE, OSGi and Web 2.0 applications to WebSphere Application Server traditional V9.x with Java EE 7. For more information about installing and downloading the tools, including archived versions of the tools for older versions of Eclipse, see &lt;a href=&quot;https://developer.ibm.com/wasdev/docs/websphere-developer-tools-releases/&quot; rel=&quot;nofollow&quot;&gt;WebSphere Application Server Developer Tools Releases&lt;/a&gt;&lt;br /&gt;
+note: This install is only supported for Java 8 versions of eclipse. Eclipse version 2020-06 or before&lt;br /&gt;
+ &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 09 Feb 2016 22:54:09 +0000</pubDate>
+ <dc:creator>dfloreshr7</dc:creator>
+ <guid isPermaLink="false">2714441 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/ibm-websphere-application-server-v9x-developer-tools#comments</comments>
+  </item>
+  <item>
+    <title>SonarLint</title>
+    <link>https://marketplace.eclipse.org/content/sonarlint</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/sonarlint-110x80_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jhenrym6y/listings&quot; title=&quot;Julien HENRY&quot;&gt;Julien HENRY&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2015-10-15 14:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2021-07-19 09:48&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22SonarSource%20S.A%22&quot;&gt;SonarSource S.A&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;SonarLint is an IDE extension that helps you detect and fix quality issues as you write code. Like a spell checker, SonarLint squiggles flaws so they can be fixed before committing code. You can get it directly from the Eclipse Marketplace, and it will then detect new bugs and quality issues as you code (Java, JavaScript, PHP, Python and HTML).&lt;/p&gt;
+&lt;p&gt;If your project is analyzed on SonarQube or on SonarCloud, SonarLint can connect to the server to retrieve the appropriate quality profiles and settings for that project, as well as some additional languages support.&lt;/p&gt;
+&lt;p&gt;Discover more at &lt;a href=&quot;https://www.sonarlint.org&quot; rel=&quot;nofollow&quot;&gt;www.sonarlint.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SonarLint requires Eclipse to use Java 8+ as runtime (but you can analyze Java projects targeting older Java versions). For any question or feedback please join the &lt;a href=&quot;https://community.sonarsource.com/c/help/sl&quot; rel=&quot;nofollow&quot;&gt;SonarSource Community Forum&lt;/a&gt; .&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 15 Oct 2015 18:54:47 +0000</pubDate>
+ <dc:creator>jhenrym6y</dc:creator>
+ <guid isPermaLink="false">2568658 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/sonarlint#comments</comments>
+  </item>
+  <item>
+    <title>Object Teams Development Tooling</title>
+    <link>https://marketplace.eclipse.org/content/object-teams-development-tooling</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/ot_marketplace.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/sherrmann/listings&quot; title=&quot;Stephan Herrmann&quot;&gt;Stephan Herrmann&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2006-10-25 09:57&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2021-07-19 09:19&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Object%20Teams%20Project%22&quot;&gt;Eclipse Object Teams Project&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Between releases Indigo (2011) and 2020-06 Object Teams was a member of the &lt;strong&gt;Simultaneous Release Train&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Releases from that period can be installed directly from the standard update site of all participating projects&lt;/li&gt;
+&lt;li&gt;Newer releases of Object Teams are distributed only via the project&#039;s own update site and via this market place entry&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Programming Language&lt;/h3&gt;
+&lt;p&gt;The Object Teams Development Tooling embeds the role-based and aspect-oriented language &lt;strong&gt;OT/J&lt;/strong&gt; into the Eclipse IDE. OT/J is an extension to the Java™ language, allowing for intuitive, role-based system modularization, as well as non-invasive adaptations of existing (Java-) software. By grouping roles into so-called &lt;em&gt;teams&lt;/em&gt;, scalability is significantly better than in pure object-oriented languages. Starting with version 2.3.0 OT/J also includes all features of Java 8 and subsequent versions of Java have always been supported in OT/J simultaneously to corresponding updates of Eclipse Java development tools (JDT).&lt;/p&gt;
+&lt;h3&gt;Development environment&lt;/h3&gt;
+&lt;p&gt;The IDE is in development since 2003 and is based on the Eclipse Java development tools (JDT). It seamlessly supports and extends all features of the JDT like incremental compilation, code completion, quick-fixes, refactoring, debugging, etc.&lt;/p&gt;
+&lt;h3&gt;Components&lt;/h3&gt;
+&lt;p&gt;It is also possible to develop Eclipse plug-ins with OT/J and adapt existing plug-ins by hooking aspects into them. This technology — called &lt;strong&gt;OT/Equinox&lt;/strong&gt; — can be used for all kinds of OSGi bundles including RCP components.&lt;/p&gt;
+&lt;h3&gt;We eat our dog food&lt;/h3&gt;
+&lt;p&gt;The OTDT itself has been developed using OT/Equinox thus showcasing the power of this technology in terms of unanticipated adaptations while sustaining a clear design that is easy to maintain.&lt;/p&gt;
+&lt;h3&gt;Supported platforms&lt;/h3&gt;
+&lt;p&gt;The OT/Equinox and OTDT have been tested on Linux, Windows and MacOS, but should run on any OS running a recent (≥1.8) &lt;strong&gt;JRE&lt;/strong&gt;. Latest builds require &lt;strong&gt;JRE 11&lt;/strong&gt;. To install OTDT, Eclipse &lt;strong&gt;Java Development Tools&lt;/strong&gt; (JDT) must be installed first.&lt;/p&gt;
+&lt;h3&gt;Further reading&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.eclipse.org/objectteams/features.php&quot; rel=&quot;nofollow&quot;&gt;Full list of features&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.eclipse.org/objectteams/download.php&quot; rel=&quot;nofollow&quot;&gt;Download&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.eclipse.org/Category:Object_Teams&quot; rel=&quot;nofollow&quot;&gt;Object Teams Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 25 Oct 2006 13:57:36 +0000</pubDate>
+ <dc:creator>sherrmann</dc:creator>
+ <guid isPermaLink="false">279 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/object-teams-development-tooling#comments</comments>
+  </item>
+  <item>
+    <title>StatET for R</title>
+    <link>https://marketplace.eclipse.org/content/statet-r</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/statet-e-marktplace.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/stwahlbrin/listings&quot; title=&quot;Stephan Wahlbrink&quot;&gt;Stephan Wahlbrink&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2010-09-02 13:29&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2021-07-19 08:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22WalWare.de%22&quot;&gt;WalWare.de&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Eclipse based IDE for the statistical programing language &lt;a href=&quot;http://www.r-project.org&quot; rel=&quot;nofollow&quot;&gt;R&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It offers a set of mature tools for R coding and package building. This includes a fully integrated R Console, Object Browser, Package Manager, Debugger, Data Viewer and R Help System, whereas multiple local and remote installations of R are supported. The optional add-ons for Sweave and Wikitext (Commonmark/Markdown, Textile) provide source editors and build tools for LaTeX/Wikitext documents with R chunks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;StatET 4.4:&lt;/strong&gt; &lt;a href=&quot;https://www.eclipse.org/statet/news#statet-4.4.0-r&quot; rel=&quot;nofollow&quot;&gt;Announcement&lt;/a&gt; | &lt;a href=&quot;https://www.eclipse.org/statet/news/noteworthy-4.4.php&quot; rel=&quot;nofollow&quot;&gt;New and Noteworthy&lt;/a&gt; | &lt;a href=&quot;https://www.eclipse.org/statet/downloads/4.4.php&quot; rel=&quot;nofollow&quot;&gt;Downloads&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Advanced R Console:&lt;/strong&gt; If you want to use the advanced console (RJ) with R, you need the R package &#039;rj&#039; for your R version.&lt;br /&gt;
+For GNU R see: &lt;a href=&quot;https://gitlab.com/walware/de.walware.rj-server.gr&quot; rel=&quot;nofollow&quot;&gt;RJSrv4GR project&lt;/a&gt; (&lt;a href=&quot;https://gitlab.com/walware/de.walware.rj-server.gr/wikis/Installation&quot; rel=&quot;nofollow&quot;&gt;installation instructions&lt;/a&gt;)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 02 Sep 2010 17:29:51 +0000</pubDate>
+ <dc:creator>stwahlbrin</dc:creator>
+ <guid isPermaLink="false">9295 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/statet-r#comments</comments>
+  </item>
+  <item>
+    <title>Mc*CUBE IDE</title>
+    <link>https://marketplace.eclipse.org/content/mccube-ide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/title128.gif&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/kjoung/listings&quot; title=&quot;Kunok Joung&quot;&gt;Kunok Joung&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2021-04-30 21:28&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2021-07-19 08:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22enSOF%20Technology%20Inc.%22&quot;&gt;enSOF Technology Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Mc*CUBE IDE&lt;/strong&gt; includes various Eclipse editors, wizards, and builders to create general business programs.&lt;br /&gt;
+Using these tools, you can easily develop modules that can be applied to work with minimal coding.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 01 May 2021 01:28:12 +0000</pubDate>
+ <dc:creator>kjoung</dc:creator>
+ <guid isPermaLink="false">5396737 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/mccube-ide#comments</comments>
+  </item>
+  <item>
+    <title>Yaml Editor</title>
+    <link>https://marketplace.eclipse.org/content/yaml-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/yaml-editor-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-05-24 09:58&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2021-07-19 08:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Just a YAML editor. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fast and small&lt;/li&gt;
+&lt;li&gt;Supports Go Templates&lt;em&gt; (e.g. Helm charts)&lt;/em&gt; - see &lt;a href=&quot;https://github.com/de-jcup/eclipse-yaml-editor/issues/76#issuecomment-550085378&quot; rel=&quot;nofollow&quot;&gt;#76&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Simple code completion for existing words&lt;/li&gt;
+&lt;li&gt;Replacing always tab keypress by spaces (default is 3, but configurable)&lt;/li&gt;
+&lt;li&gt;Source formatter&lt;br /&gt;
+	(can restore or drop comments as well)&lt;/li&gt;
+&lt;li&gt;Outline + Quickoutline&lt;/li&gt;
+&lt;li&gt;Task support (TODO, FIXME, custom)&lt;/li&gt;
+&lt;li&gt;Eclipse Templates (customizable + defaults for TODO and FIXME)&lt;/li&gt;
+&lt;li&gt;Can sort mappings (ascending) - see &lt;a href=&quot;https://github.com/de-jcup/eclipse-yaml-editor/issues/56#issuecomment-549190208&quot; rel=&quot;nofollow&quot;&gt;#56&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Folding
+&lt;ul&gt;&lt;li&gt;Can be enabled/disabled
+&lt;ul&gt;&lt;li&gt;for every new opened editor in preferences (per default turned:off)&lt;/li&gt;
+&lt;li&gt;in every editor instance by context menu on ruler column&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Validation
+&lt;ul&gt;&lt;li&gt;When?
+&lt;ul&gt;&lt;li&gt;On start&lt;/li&gt;
+&lt;li&gt;On save&lt;/li&gt;
+&lt;li&gt;Manual validation&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;What ?
+&lt;ul&gt;&lt;li&gt;Parser errors&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Syntaxhighlighting, colors can be customized, defaults for dark themes exist&lt;/li&gt;
+&lt;li&gt;Comment toggling (CTRL + 7)&lt;/li&gt;
+&lt;li&gt;Vertical Ruler which can be moved (F3)&lt;/li&gt;
+&lt;li&gt;Qualified key can be copied inside outline view to clipboard by toolbar action&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Additional Links&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-yaml-editor/issues&quot; rel=&quot;nofollow&quot;&gt;Issue tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-yaml-editor/wiki&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-yaml-editor/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 24 May 2018 13:58:51 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">4101183 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/yaml-editor#comments</comments>
+  </item>
+  <item>
+    <title>CodeTogether</title>
+    <link>https://marketplace.eclipse.org/content/codetogether</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/codetogether-full-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-03-05 15:48&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2021-07-19 08:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Add &lt;a href=&quot;https://www.codetogether.com/dOpk/&quot; rel=&quot;nofollow&quot;&gt;CodeTogether&lt;/a&gt; to Eclipse to live share your IDE and coding sessions. Cross-IDE support for Eclipse, IntelliJ, and VS Code. See changes in real time, even when coding in the same file, like Google Docs for your code. So many uses: pair programming, mob programming, code review, project design, unit testing, education, interviews, remote development and more.&lt;/p&gt;
+&lt;p&gt;Free plan with anonymous usage is always available.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Multi-IDE support.&lt;/strong&gt; Host and join from Eclipse, VS Code, or IntelliJ.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Browser too. &lt;/strong&gt;IDE functionality with just a URL, even edit from a phone or tablet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Secure. &lt;/strong&gt;&lt;a href=&quot;https://www.codetogether.com/dOpk/download/security/&quot; rel=&quot;nofollow&quot;&gt;End-to-end encryption&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.codetogether.com/dOpk/on-premises/&quot; rel=&quot;nofollow&quot;&gt;On-Premises&lt;/a&gt; option with SSO integration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Real-time editing. &lt;/strong&gt;See changes immediately, even when editing the same file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Host-based intelligence. &lt;/strong&gt;Exceptional content assist, validation &amp;amp; navigation for all.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shared consoles &amp;amp; terminals. &lt;/strong&gt;Host-controlled with optional write access.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Share local servers. &lt;/strong&gt;Expose to your guests web apps running locally.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible. &lt;/strong&gt;Supports multiple groups, easily move between groups or code alone. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CodeTogether Teams. &lt;/strong&gt;Simplifies collaboration with team-centric flows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficient. &lt;/strong&gt;No resource drain, lag time or artifacting like with screen sharing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Intuitive design. &lt;/strong&gt;See the &lt;a href=&quot;https://www.codetogether.com/dOpk/docs/getting-started-with-codetogether/&quot; rel=&quot;nofollow&quot;&gt;Getting Started Guide&lt;/a&gt; for details. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SAP ABAP support. &lt;/strong&gt;Collaborate &amp;amp; live share code that resides on an SAP server.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 05 Mar 2020 20:48:34 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">5012014 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/codetogether#comments</comments>
+  </item>
+  <item>
+    <title>Cucumber Eclipse Plugin</title>
+    <link>https://marketplace.eclipse.org/content/cucumber-eclipse-plugin</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/Cucumber-Logo-Final-2.png&quot; width=&quot;110&quot; height=&quot;73&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/gpandam3m/listings&quot; title=&quot;Girija Prasad Panda&quot;&gt;Girija Prasad Panda&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-11-10 06:08&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2021-07-19 08:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Cucumber%22&quot;&gt;Cucumber&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h4&gt;An Eclipse plugin for &lt;a href=&quot;https://cucumber.io/&quot; rel=&quot;nofollow&quot;&gt; Cucumber &lt;/a&gt;.&lt;/h4&gt;
+&lt;h3&gt;New Feature list in the version available from the update site:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/cucumber/cucumber-eclipse/wiki/Lambda-Expression-support-for-Cucumber-Java8&quot; rel=&quot;nofollow&quot;&gt;Lambda Expression support for Cucumber-Java8 &lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/cucumber/cucumber-eclipse/wiki/Content-Assistance-for-feature-file&quot; rel=&quot;nofollow&quot;&gt;Content Assistance for feature file &lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/cucumber/cucumber-eclipse/wiki/New-Step-Definition-File-Wizard&quot; rel=&quot;nofollow&quot;&gt;New Step Definition File Wizard&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/cucumber/cucumber-eclipse/wiki/Auto-Generation-of-Sample-Feature-Definition-Template&quot; rel=&quot;nofollow&quot;&gt;Auto Generation of Feature Definition&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/cucumber/cucumber-eclipse/wiki/I18n-Syntax-highlighting&quot; rel=&quot;nofollow&quot;&gt;I18n Syntax highlighting&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/cucumber/cucumber-eclipse/wiki/Pretty-Formatting&quot; rel=&quot;nofollow&quot;&gt;Pretty Formatting&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/cucumber/cucumber-eclipse/wiki/Feature-Runner&quot; rel=&quot;nofollow&quot;&gt;Feature runner with formatters&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;strong&gt;Click through from Step to Step Definition&lt;/strong&gt;. (Currently only works in English, and from pop up menu)&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;Please head over to our &lt;a href=&quot;https://github.com/cucumber/cucumber-eclipse&quot; rel=&quot;nofollow&quot;&gt; Github Repository &lt;/a&gt; for more information.&lt;/h4&gt;
+&lt;h4&gt;Please consult our &lt;a href=&quot;https://github.com/cucumber/cucumber-eclipse/wiki&quot; rel=&quot;nofollow&quot;&gt; Plugin-Wiki &lt;/a&gt; for a full list for currently available features and screenshots.&lt;/h4&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 10 Nov 2017 11:08:15 +0000</pubDate>
+ <dc:creator>gpandam3m</dc:creator>
+ <guid isPermaLink="false">3759385 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/cucumber-eclipse-plugin#comments</comments>
+  </item>
+  <item>
+    <title>Spring Tools 3 Add-On for Spring Tools 4</title>
+    <link>https://marketplace.eclipse.org/content/spring-tools-3-add-spring-tools-4</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/sts3-marketplace-icon.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mlippert/listings&quot; title=&quot;Martin Lippert&quot;&gt;Martin Lippert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2018-09-25 17:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2021-07-19 08:23&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22VMware%22&quot;&gt;VMware&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Spring Tools 3 Add-On for Spring Tools 4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attention: This add-on pack provides additional components from the previous Spring Tools 3 generation to be installed into an Eclipse with Spring Tools 4 already installed. To avoid installation issues with overlapping features, this will NOT install everything from the previous Spring Tool Suite 3 into a plain Eclipse. If you want to purely install all the STS3 components into a plain Eclipse, please use the specific marketplace &quot;Spring Tools 3 (Standalone Edition)&quot; entry for that.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Spring Tools 3 contain the previous generation Spring tooling for Eclipse, mostly focused on working with Spring apps configured using XML and providing validation support for various additional Spring projects, like Spring AOP, Spring Webflow, Spring Integration, etc. This can be installed as an add-on into the Spring Tools 4 for Eclipse as well as into a plain Eclipse installation, if you still have projects that are not migrated to Spring Boot and/or you would like to continue to use features of the previous Spring tooling generation that aren&#039;t yet been part of the all-new Spring Tools 4.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 25 Sep 2018 21:35:57 +0000</pubDate>
+ <dc:creator>mlippert</dc:creator>
+ <guid isPermaLink="false">4290168 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/spring-tools-3-add-spring-tools-4#comments</comments>
+  </item>
+  </channel>
+</rss>

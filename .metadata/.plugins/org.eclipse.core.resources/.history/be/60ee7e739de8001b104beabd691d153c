@@ -1,0 +1,32 @@
+package org.facebook;
+
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class login {
+	
+	public static WebDriver browser ;
+	public static WebElement email;
+	public static WebElement pass;
+	
+	@BeforeClass
+	public static void getfbpage() {		
+		System.setProperty("webdriver.edge.driver", 
+				"D:\\MyJavaSeleniumProject\\Facebook\\src\\test\\resources\\Driver\\msedgedriver.exe");
+		browser =new EdgeDriver();
+		browser.get("https://en-gb.facebook.com/");
+	}
+	
+	@Test(priority = 2)
+	public static void getfbLogin() {
+		PageFactory.initElements(browser, login.class);
+		email.sendKeys("Hello");
+		pass.sendKeys("hello",Keys.ENTER);
+	}
+	
+}
