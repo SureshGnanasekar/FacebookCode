@@ -15,10 +15,6 @@ import org.testng.asserts.SoftAssert;
 
 public class login {
 
-	public static void main(String[] args) {
-		
-		System.out.println("Hello Test");
-	}
 	public static WebDriver browser ;
 	public static WebElement email;
 	public static WebElement pass;
