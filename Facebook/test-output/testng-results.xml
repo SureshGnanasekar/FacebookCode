@@ -2,25 +2,25 @@
 <testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="4220" started-at="2021-07-21T05:27:12Z" finished-at="2021-07-21T05:27:16Z">
+  <suite name="Suite" duration-ms="3564" started-at="2021-07-21T16:14:33Z" finished-at="2021-07-21T16:14:37Z">
     <groups>
       <group name="SmokeTest">
         <method signature="login.getfbLogin()[pri:2, instance:org.facebook.login@4883b407]" name="getfbLogin" class="org.facebook.login"/>
-        <method signature="login.getfbpage()[pri:1, instance:org.facebook.login@4883b407]" name="getfbpage" class="org.facebook.login"/>
+        <method signature="login.getfbpage()[pri:0, instance:org.facebook.login@4883b407]" name="getfbpage" class="org.facebook.login"/>
         <method signature="login.printstat()[pri:4, instance:org.facebook.login@4883b407]" name="printstat" class="org.facebook.login"/>
       </group> <!-- SmokeTest -->
     </groups>
-    <test name="Test" duration-ms="4220" started-at="2021-07-21T05:27:12Z" finished-at="2021-07-21T05:27:16Z">
+    <test name="Test" duration-ms="3564" started-at="2021-07-21T16:14:33Z" finished-at="2021-07-21T16:14:37Z">
       <class name="org.facebook.login">
-        <test-method status="PASS" signature="getfbpage()[pri:1, instance:org.facebook.login@4883b407]" name="getfbpage" duration-ms="3981" started-at="2021-07-21T05:27:12Z" finished-at="2021-07-21T05:27:16Z">
+        <test-method status="PASS" signature="getfbpage()[pri:0, instance:org.facebook.login@4883b407]" name="getfbpage" duration-ms="3270" started-at="2021-07-21T16:14:34Z" finished-at="2021-07-21T16:14:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getfbpage -->
-        <test-method status="PASS" signature="getfbLogin()[pri:2, instance:org.facebook.login@4883b407]" name="getfbLogin" duration-ms="211" started-at="2021-07-21T05:27:16Z" finished-at="2021-07-21T05:27:16Z">
+        <test-method status="PASS" signature="getfbLogin()[pri:2, instance:org.facebook.login@4883b407]" name="getfbLogin" duration-ms="262" started-at="2021-07-21T16:14:37Z" finished-at="2021-07-21T16:14:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getfbLogin -->
-        <test-method status="PASS" signature="printstat()[pri:4, instance:org.facebook.login@4883b407]" name="printstat" duration-ms="6" started-at="2021-07-21T05:27:16Z" finished-at="2021-07-21T05:27:16Z">
+        <test-method status="PASS" signature="printstat()[pri:4, instance:org.facebook.login@4883b407]" name="printstat" duration-ms="2" started-at="2021-07-21T16:14:37Z" finished-at="2021-07-21T16:14:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printstat -->
