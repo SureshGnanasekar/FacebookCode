@@ -19,7 +19,7 @@ public class login {
 	public static WebElement email;
 	public static WebElement pass;
 
-	@Test(priority = 0,groups = "SmokeTest")
+	@Test(priority = 1,groups = "SmokeTest")
 	public static void getfbpage() {		
 		System.setProperty("webdriver.edge.driver", 
 				"D:\\MyJavaSeleniumProject\\Facebook\\src\\test\\resources\\Driver\\msedgedriver.exe");
