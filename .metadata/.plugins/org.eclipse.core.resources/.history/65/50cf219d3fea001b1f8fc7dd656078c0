@@ -6,7 +6,7 @@
 				<include name="SmokeTest" />
 			</run>
 		</groups>
-	<test thread-count="10" name="Test">	
+	<test thread-count="5" name="Test">	
 		<classes>
 			<class name="org.facebook.login" />
 		</classes>
