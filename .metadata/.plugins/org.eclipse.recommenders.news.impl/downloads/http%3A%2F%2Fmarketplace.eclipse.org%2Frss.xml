@@ -6,6 +6,58 @@
     <language>en</language>
      <atom:link href="https://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Autodetect Encoding</title>
+    <link>https://marketplace.eclipse.org/content/autodetect-encoding</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/WS000000.fw_.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/skashihara/listings&quot; title=&quot;Shinji Kashihara&quot;&gt;Shinji Kashihara&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2016-06-11 21:10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2021-07-21 02:51&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Shinji%20Kashihara%22&quot;&gt;Shinji Kashihara&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Show file information for the active editor in the status bar.&lt;br /&gt;
+ &lt;/p&gt;
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Show file encoding and line ending&lt;/strong&gt;&lt;br /&gt;
+Line ending (separator) support showing CRLF, CR, LF and Mixed, can also be converted.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Change &quot;Text File Encoding&quot; setting by file property &lt;/strong&gt;&lt;br /&gt;
+To add the encoding, use Preference &amp;gt; General &amp;gt; Workspace &amp;gt; Text File Encoding &amp;gt; Other.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Autodetect: Automatic detection by juniversalchardet and ICU4J&lt;/li&gt;
+&lt;li&gt;Inheritance: Inherited from folder or project properties, workspace preferences&lt;/li&gt;
+&lt;li&gt;Content Type: Determined from content type setting &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&#039;Autodetect: Set Automatically&#039; &lt;/strong&gt;&lt;br /&gt;
+This only applies if the file properties encoding is not specified.&lt;br /&gt;
+An automatically set is not enabled by default.&lt;/p&gt;
+&lt;p&gt;Add/Remove BOM is disable on Windows.&lt;br /&gt;
+ &lt;/p&gt;
+&lt;h2&gt;Changes&lt;/h2&gt;
+&lt;p&gt;1.8.4 - 2017.08.05&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Add ICU4J support (juniversalchardet switchable)&lt;/li&gt;
+&lt;li&gt;Disable BOM operations on Windows&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;1.8.0 - 2016.08.13&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Add folder properties hierarchy menu&lt;/li&gt;
+&lt;li&gt;Add &#039;Oepn Setting File in Project&#039; action&lt;/li&gt;
+&lt;li&gt;Fix not shown encoding when editor all closed&lt;/li&gt;
+&lt;li&gt;Improve handle resource in jar&lt;/li&gt;
+&lt;li&gt;Improve charset label in menu&lt;/li&gt;
+&lt;li&gt;Rename plugin name &#039;Encoding StatusBar&#039; to &#039;Autodetct Encoding&#039;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;1.7.0 - 2016.07.28&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Add &#039;Add/Remove BOM&#039; action&lt;/li&gt;
+&lt;li&gt;Add file creation preferences shortcut&lt;/li&gt;
+&lt;li&gt;Improve autodetect&lt;/li&gt;
+&lt;li&gt;Improve determined from content&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;1.6.0 - 2016.07.18&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Add autodetect behavior option&lt;/li&gt;
+&lt;li&gt;Add set automatically or show warning by autodetect&lt;/li&gt;
+&lt;li&gt;Add pom editor Effective pom tab support&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;1.5.0 - 2016.07.03&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Add multi page editor support&lt;/li&gt;
+&lt;li&gt;Add class editor support&lt;/li&gt;
+&lt;li&gt;Add encoding label to menu&lt;/li&gt;
+&lt;li&gt;Add package root properties menu&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Original source: &lt;a href=&quot;/content/file-encoding-info&quot; rel=&quot;nofollow&quot;&gt;File Encoding Info&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 12 Jun 2016 01:10:38 +0000</pubDate>
+ <dc:creator>skashihara</dc:creator>
+ <guid isPermaLink="false">2925771 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/autodetect-encoding#comments</comments>
+  </item>
+  <item>
     <title>Design and Verification Tools (DVT) IDE for e, SystemVerilog, VHDL, and PSS</title>
     <link>https://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-vhdl-and-pss</link>
     <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/AMIQ_logo_web_110x63.jpg&quot; width=&quot;110&quot; height=&quot;63&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/emisingname6ia/listings&quot; title=&quot;etools Mising name&quot;&gt;etools Mising name&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2006-04-19 08:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2021-07-20 17:39&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22AMIQ%20EDA%22&quot;&gt;AMIQ EDA&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Design and Verification Tools (DVT) is an integrated development environment (IDE) for the design and verification engineers working with &lt;strong&gt;SystemVerilog, Verilog, VHDL, e, UPF, CPF, SLN, PSS, SDL&lt;/strong&gt;. &lt;strong&gt;Including Universal Verification Methodology (UVM)&lt;/strong&gt; support. It is similar to well-known programming tools like Visual Studio®, NetBeans®, and IntelliJ®. DVT comprises a proprietary IEEE standard-compliant parser, a smart code editor, an intuitive GUI, a comprehensive set of features that help with code inspection, navigation, documentation, and debugging, and an innovative linting framework. DVT allows design and verification engineers to overcome the limitations of plain text editors and use a modern and powerful tool that enables them to:&lt;/p&gt;
@@ -178,19 +230,6 @@ note: This install is only supported for Java 8 versions of eclipse. Eclipse ver
  <dc:creator>sherrmann</dc:creator>
  <guid isPermaLink="false">279 at https://marketplace.eclipse.org</guid>
  <comments>https://marketplace.eclipse.org/content/object-teams-development-tooling#comments</comments>
-  </item>
-  <item>
-    <title>StatET for R</title>
-    <link>https://marketplace.eclipse.org/content/statet-r</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/statet-e-marktplace.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/stwahlbrin/listings&quot; title=&quot;Stephan Wahlbrink&quot;&gt;Stephan Wahlbrink&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2010-09-02 13:29&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2021-07-19 08:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22WalWare.de%22&quot;&gt;WalWare.de&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Eclipse based IDE for the statistical programing language &lt;a href=&quot;http://www.r-project.org&quot; rel=&quot;nofollow&quot;&gt;R&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;It offers a set of mature tools for R coding and package building. This includes a fully integrated R Console, Object Browser, Package Manager, Debugger, Data Viewer and R Help System, whereas multiple local and remote installations of R are supported. The optional add-ons for Sweave and Wikitext (Commonmark/Markdown, Textile) provide source editors and build tools for LaTeX/Wikitext documents with R chunks.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;StatET 4.4:&lt;/strong&gt; &lt;a href=&quot;https://www.eclipse.org/statet/news#statet-4.4.0-r&quot; rel=&quot;nofollow&quot;&gt;Announcement&lt;/a&gt; | &lt;a href=&quot;https://www.eclipse.org/statet/news/noteworthy-4.4.php&quot; rel=&quot;nofollow&quot;&gt;New and Noteworthy&lt;/a&gt; | &lt;a href=&quot;https://www.eclipse.org/statet/downloads/4.4.php&quot; rel=&quot;nofollow&quot;&gt;Downloads&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Advanced R Console:&lt;/strong&gt; If you want to use the advanced console (RJ) with R, you need the R package &#039;rj&#039; for your R version.&lt;br /&gt;
-For GNU R see: &lt;a href=&quot;https://gitlab.com/walware/de.walware.rj-server.gr&quot; rel=&quot;nofollow&quot;&gt;RJSrv4GR project&lt;/a&gt; (&lt;a href=&quot;https://gitlab.com/walware/de.walware.rj-server.gr/wikis/Installation&quot; rel=&quot;nofollow&quot;&gt;installation instructions&lt;/a&gt;)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Thu, 02 Sep 2010 17:29:51 +0000</pubDate>
- <dc:creator>stwahlbrin</dc:creator>
- <guid isPermaLink="false">9295 at https://marketplace.eclipse.org</guid>
- <comments>https://marketplace.eclipse.org/content/statet-r#comments</comments>
   </item>
   </channel>
 </rss>

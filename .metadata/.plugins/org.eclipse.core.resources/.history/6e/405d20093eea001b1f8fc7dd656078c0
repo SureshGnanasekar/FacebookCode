@@ -20,9 +20,7 @@ public class login {
 	public static WebElement pass;
 
 	@Test(priority = 0,groups = "SmokeTest")
-	public static void getfbpage() {	
-		Date dt =new Date();
-		System.out.println("Before Test execution : " +dt.toString());
+	public static void getfbpage() {		
 		System.setProperty("webdriver.edge.driver", 
 				"D:\\MyJavaSeleniumProject\\Facebook\\src\\test\\resources\\Driver\\msedgedriver.exe");
 		browser =new EdgeDriver();
