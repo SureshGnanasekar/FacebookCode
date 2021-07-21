@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3633" started-at="2021-07-19T14:57:26Z" finished-at="2021-07-19T14:57:30Z">
+  <suite name="Suite" duration-ms="4220" started-at="2021-07-21T05:27:12Z" finished-at="2021-07-21T05:27:16Z">
     <groups>
-      <group name="reg">
-        <method signature="login.getfbLogin1()[pri:3, instance:org.facebook.login@4667ae56]" name="getfbLogin1" class="org.facebook.login"/>
-      </group> <!-- reg -->
+      <group name="SmokeTest">
+        <method signature="login.getfbLogin()[pri:2, instance:org.facebook.login@4883b407]" name="getfbLogin" class="org.facebook.login"/>
+        <method signature="login.getfbpage()[pri:1, instance:org.facebook.login@4883b407]" name="getfbpage" class="org.facebook.login"/>
+        <method signature="login.printstat()[pri:4, instance:org.facebook.login@4883b407]" name="printstat" class="org.facebook.login"/>
+      </group> <!-- SmokeTest -->
     </groups>
-    <test name="Default test" duration-ms="3633" started-at="2021-07-19T14:57:26Z" finished-at="2021-07-19T14:57:30Z">
+    <test name="Test" duration-ms="4220" started-at="2021-07-21T05:27:12Z" finished-at="2021-07-21T05:27:16Z">
       <class name="org.facebook.login">
-        <test-method status="PASS" signature="getfbpage()[pri:0, instance:org.facebook.login@4667ae56]" name="getfbpage" is-config="true" duration-ms="3353" started-at="2021-07-19T14:57:26Z" finished-at="2021-07-19T14:57:30Z">
+        <test-method status="PASS" signature="getfbpage()[pri:1, instance:org.facebook.login@4883b407]" name="getfbpage" duration-ms="3981" started-at="2021-07-21T05:27:12Z" finished-at="2021-07-21T05:27:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getfbpage -->
-        <test-method status="PASS" signature="getfbLogin1()[pri:3, instance:org.facebook.login@4667ae56]" name="getfbLogin1" duration-ms="256" started-at="2021-07-19T14:57:30Z" finished-at="2021-07-19T14:57:30Z">
+        <test-method status="PASS" signature="getfbLogin()[pri:2, instance:org.facebook.login@4883b407]" name="getfbLogin" duration-ms="211" started-at="2021-07-21T05:27:16Z" finished-at="2021-07-21T05:27:16Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getfbLogin1 -->
+        </test-method> <!-- getfbLogin -->
+        <test-method status="PASS" signature="printstat()[pri:4, instance:org.facebook.login@4883b407]" name="printstat" duration-ms="6" started-at="2021-07-21T05:27:16Z" finished-at="2021-07-21T05:27:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printstat -->
       </class> <!-- org.facebook.login -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
